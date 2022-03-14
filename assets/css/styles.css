@@ -319,6 +319,10 @@ the website, in dark theme
   margin-bottom: var(--mb-1);
 }
 
+.fans {
+  color: var(--first-color);
+}
+
 .home__description{
   margin-bottom: var(--mb-2-5);
 }
