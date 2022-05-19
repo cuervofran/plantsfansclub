@@ -641,6 +641,11 @@ the website, in dark theme
   row-gap: 2rem;
 }
 
+.contact__data a{
+  text-decoration: none;
+  color: black;
+}
+
 .contact__subtitle{
   font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
@@ -778,8 +783,15 @@ the website, in dark theme
   row-gap: .75rem;
 }
 
+.footer__data a{
+  text-decoration: none;
+  color: black;
+}
+
 .footer__information{
   font-size: var(--small-font-size);
+  color: black;
+  
 }
 
 .footer__social{
@@ -1055,7 +1067,7 @@ the website, in dark theme
     right: -60%;
   }
   .home__social-link{
-    font-size: 1.15rem;
+    font-size: 1.5rem;
   }
 
   .about__container{
